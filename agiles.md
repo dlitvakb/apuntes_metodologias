@@ -6,7 +6,7 @@ En febrero de 2001, tras una reunión celebrada en Utah-EEUU, nace el término
 
 Tras esta reunión se creó *The Agile Alliance*, una organización, sin ánimo de lucro, dedicada a promover los conceptos relacionados con el desarrollo ágil de software y ayudar a las organizaciones para que adopten dichos conceptos. El punto de partida fue el *Manifiesto Ágil*, un documento que resume la filosofía ágil.
 
-## Manifiesto por el desarrollo ágil de software.
+## Manifiesto por el desarrollo ágil de software
 Es una declaración pública de los principios e intensiones del desarrollo ágil:
 
 1. Se valora al **individuo** y las **interacciones del equipo** de desarrollo sobre el proceso y las herramientas.
@@ -21,7 +21,7 @@ El software desarrollado en una unidad de tiempo es llamado una *iteración*, l
 
 Los métodos ágiles enfatizan las comunicaciones cara a cara en vez de la documentación. La mayoría de los equipos ágiles están localizados en una simple oficina abierta, a veces llamadas "plataformas de lanzamiento" (bullpen). La oficina debe incluir revisores, escritores de documentación y ayuda, diseñadores de iteración y directores de proyecto. Los métodos ágiles también enfatizan que el software funcional es la primera medida del progreso. Si bien nació con la idea de aplicarlo al desarrollo de software, *las metodologías ágiles pueden ser aplicadas a cualquier tipo de proyectos*.
 
-## 12 Principios de las metodologías agiles.
+## 12 Principios de las metodologías agiles
 1. Priorizar la satisfacción del cliente mediante entregas tempranas y continuas de software con un valor.
 2. Aceptar que los requisitos cambien incluso en etapas tardías del proceso. Los procesos agiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
 3. Entregar software funcional frecuentemente (entre 2 semanas y 2 meses) lo antes posible.
